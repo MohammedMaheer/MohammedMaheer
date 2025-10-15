@@ -24,3 +24,16 @@ Python | ROS2 | Machine Learning | Data Science | Automation | Agentic AI
 Agentic AI workflows, multi-agent robotics systems, advanced ML pipelines, AI + IoT integrations  
 
 💡 “Always learning, building & exploring.”
+## 🚀 Agentic AI Projects Showcase
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Multi-Agent Robot Simulation** | A ROS2-based simulation with multiple autonomous agents collaborating in a virtual environment. | [Repo](https://github.com/Mohammedmaheer/multi-agent-robot) |
+| **Agentic AI Workflow** | Framework for autonomous task execution using Agentic AI principles. | [Repo](https://github.com/Mohammedmaheer/agentic-ai-workflow) |
+| **AI-Powered Data Collector** | Robot + sensors setup to collect & encode sensor data for ML pipelines. | [Repo](https://github.com/Mohammedmaheer/ai-data-collector) |
+| **Autonomous Navigation System** | ROS2 project with IMU, Lidar & camera integration for real-time navigation. | [Repo](https://github.com/Mohammedmaheer/autonomous-navigation) |
+
+> ⚡ Tip: You can add **screenshots or GIFs** inside each project for more visual impact:
+
+```markdown
+![Project GIF](https://github.com/Mohammedmaheer/multi-agent-robot/blob/main/demo.gif)

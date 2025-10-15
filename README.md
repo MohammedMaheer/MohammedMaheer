@@ -2,8 +2,14 @@
 
 🤖 **Robotics & AI Engineer | ML Enthusiast | Agentic AI Developer | Open Source Contributor**  
 
-💻 **Skills:**  
-Python | ROS2 | Machine Learning | Data Science | Automation | Agentic AI  
+### 💻 Skills
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=robotics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-008080?style=for-the-badge&logo=apache&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF4500?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-4CAF50?style=for-the-badge)
 
 📂 **Projects & Interests:**  
 - Robotics demos & autonomous systems  

@@ -1,6 +1,6 @@
 # Hi, I’m Mohammed Maheer
 
-🤖 ** Robotics & AI Engineer | ROS Enthusiast | Agentic AI Developer | Open Source Contributor **  
+🤖 Robotics & AI Engineer | ROS Enthusiast | Agentic AI Developer | Open Source Contributor
 
 ### 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
